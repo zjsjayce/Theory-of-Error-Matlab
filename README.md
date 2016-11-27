@@ -1,3 +1,3 @@
 # Theory-of-Error-Matlab
-Theory-of-Error-Matlab
-The final project of the Theory of error，cooperate of Miss Chen.
+
+This is the final project of the Theory of error，cwhich ooperate with Miss Chen.
